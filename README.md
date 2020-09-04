@@ -10,6 +10,7 @@
     <img width="64" height="64" src="https://github.com/tuncerm/tuncerm/raw/master/assets/react.svg">
     <img width="64" height="64" src="https://github.com/tuncerm/tuncerm/raw/master/assets/angular.svg">
     <img width="64" height="64" src="https://github.com/tuncerm/tuncerm/raw/master/assets/mongo.svg">
+    <img width="64" height="64" src="https://github.com/tuncerm/tuncerm/raw/master/assets/mysql.svg">
     <img width="64" height="64" src="https://github.com/tuncerm/tuncerm/raw/master/assets/java.svg">
     <img width="64" height="64" src="https://github.com/tuncerm/tuncerm/raw/master/assets/python.svg">
     <img width="64" height="64" src="https://github.com/tuncerm/tuncerm/raw/master/assets/rust.svg">
