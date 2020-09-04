@@ -1,5 +1,5 @@
 <p>
-    <img src="/tuncerm/tuncerm/blob/master/assets/c.svg">
+    <img src="https://github.com/tuncerm/tuncerm/raw/master/assets/c.svg">
 </p>
 <!--
 **tuncerm/tuncerm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
