@@ -1,3 +1,6 @@
+<p>
+    <img src="./assets/c.svg">
+</p>
 <!--
 **tuncerm/tuncerm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
