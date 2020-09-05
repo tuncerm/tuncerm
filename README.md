@@ -1,8 +1,6 @@
 # Need a Title here
 
 ## 🏆 Proficient in:
-___
-
 ### 💻 For web: 
 <p>
     <img width="64" height="64" src="https://github.com/tuncerm/tuncerm/raw/master/assets/html.svg">
@@ -22,7 +20,6 @@ ___
 </p>
 
 ## 🌱 Experimenting in:
-___
 <p>
     <img width="64" height="64" src="https://github.com/tuncerm/tuncerm/raw/master/assets/go.svg">
     <img width="64" height="64" src="https://github.com/tuncerm/tuncerm/raw/master/assets/java.svg">
@@ -31,7 +28,6 @@ ___
 </p>
 
 ## ⚡ Extra:
-___
 <p>
     <img width="64" height="64" src="https://github.com/tuncerm/tuncerm/raw/master/assets/mongo.svg">
     <img width="64" height="64" src="https://github.com/tuncerm/tuncerm/raw/master/assets/mysql.svg">
