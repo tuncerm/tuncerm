@@ -19,7 +19,7 @@
     <img width="64" height="64" src="https://github.com/tuncerm/tuncerm/raw/master/assets/cs.svg">
 </p>
 
-## 🌱 Experimenting in:
+## 🌱 Experimenting with:
 <p>
     <img width="64" height="64" src="https://github.com/tuncerm/tuncerm/raw/master/assets/go.svg">
     <img width="64" height="64" src="https://github.com/tuncerm/tuncerm/raw/master/assets/java.svg">
